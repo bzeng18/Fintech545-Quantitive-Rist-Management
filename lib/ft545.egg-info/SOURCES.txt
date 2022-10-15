@@ -1,0 +1,8 @@
+README.md
+setup.py
+ft545/__init__.py
+ft545/myfunctions.py
+ft545.egg-info/PKG-INFO
+ft545.egg-info/SOURCES.txt
+ft545.egg-info/dependency_links.txt
+ft545.egg-info/top_level.txt
